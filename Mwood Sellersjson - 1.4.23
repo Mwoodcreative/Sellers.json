@@ -269,6 +269,13 @@
       "name": "sunmedia.stream"
     },
     {
+      "seller_id": "60396",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "domain": "scopely.com",
+      "name": "scopely.com"
+    },
+    {
       "seller_id": "60571",
       "seller_type": "INTERMEDIARY",
       "domain": "99memes.co",
