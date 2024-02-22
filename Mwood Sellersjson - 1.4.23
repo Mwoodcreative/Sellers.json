@@ -17,6 +17,12 @@
       "name": "MobilityWare"
     },
     {
+      "seller_id": " 60243",
+      "seller_type": "PUBLISHER",
+      "domain": "callapp.com",
+      "name": "callapp"
+    },
+    {
       "seller_id": "60209",
       "seller_type": "PUBLISHER",
       "domain": "playsimple.in",
