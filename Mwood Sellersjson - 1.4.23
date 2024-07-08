@@ -4,23 +4,1421 @@
   "version": "1.2",
   "identifiers": [],
   "sellers": [
-   {
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "2ndreality.info",
+      "name": "2ndreality.info"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "8quiz.ru",
+      "name": "8quiz.ru"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "99memes.co",
+      "name": "99memes.co"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "abovegames.com",
+      "name": "abovegames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "acryptominer.io",
+      "name": "acryptominer.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "actopolus.github.io",
+      "name": "actopolus.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "agsoftworks.com",
+      "name": "agsoftworks.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "aigames.ae",
+      "name": "aigames.ae"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "aksweb.ru",
+      "name": "aksweb.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "aleksaleks.ru",
+      "name": "aleksaleks.ru"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "amendedstr.fyi",
+      "name": "amendedstr.fyi"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "americasbestpics.com",
+      "name": "americasbestpics.com"
+    },
+    {
+      "seller_id": "60635",
+      "seller_type": "PUBLISHER",
+      "domain": "amerigo-app.com",
+      "name": "amerigo-app.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "amgamestudio.com",
+      "name": "amgamestudio.com"
+    },
+    {
+      "seller_id": "60599",
+      "seller_type": "PUBLISHER",
+      "domain": "aparentmedia.com",
+      "name": "aparentmedia.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "app.ddibox.com",
+      "name": "app.ddibox.com"
+    },
+    {
+      "seller_id": "60635",
+      "seller_type": "PUBLISHER",
+      "domain": "appideas.it",
+      "name": "appideas.it"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ardrawing.github.io",
+      "name": "ardrawing.github.io"
+    },
+    {
+      "seller_id": "60595",
+      "seller_type": "PUBLISHER",
+      "domain": "asiancookingstar.theappguruz.com",
+      "name": "asiancookingstar.theappguruz.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "audiosdroid.com",
+      "name": "audiosdroid.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "avegaserviceads.com",
+      "name": "avegaserviceads.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "avegastudio.ru",
+      "name": "avegastudio.ru"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "ayozat.com",
+      "name": "ayozat.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "azon.games",
+      "name": "azon.games"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "azurapps.com",
+      "name": "azurapps.com"
+    },
+    {
+      "seller_id": "60232",
+      "seller_type": "PUBLISHER",
+      "domain": "azure-boost.com",
+      "name": "azure-boost.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "azurgames.com",
+      "name": "azurgames.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "azurplay.com",
+      "name": "azurplay.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "b5c24714.app-ads-txt.com",
+      "name": "b5c24714.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60622",
+      "seller_type": "PUBLISHER",
+      "domain": "babgame.co",
+      "name": "babgame.co"
+    },
+    {
+      "seller_id": "60622",
+      "seller_type": "PUBLISHER",
+      "domain": "baconstudio.co",
+      "name": "baconstudio.co"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "baldpanther.github.io",
+      "name": "baldpanther.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "barsinteractive.ru",
+      "name": "barsinteractive.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "barsukstudio.github.io",
+      "name": "barsukstudio.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "basuriappads.000webhostapp.com",
+      "name": "basuriappads.000webhostapp.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "bauyazilim.com",
+      "name": "bauyazilim.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "benfont.carrd.co",
+      "name": "benfont.carrd.co"
+    },
+    {
+      "seller_id": "60659",
+      "seller_type": "PUBLISHER",
+      "domain": "betswall.com",
+      "name": "betswall.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "beyond-games.com.tr",
+      "name": "beyond-games.com.tr"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "beyondgames.com.tr",
+      "name": "beyondgames.com.tr"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "billiards3d.net",
+      "name": "billiards3d.net"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "bilparakazan.net",
+      "name": "bilparakazan.net"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "birdcoin.ru",
+      "name": "birdcoin.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "blackowldownloader.000webhostapp.com",
+      "name": "blackowldownloader.000webhostapp.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "blockgamesstudio.com",
+      "name": "blockgamesstudio.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "boomdraggames.ru",
+      "name": "boomdraggames.ru"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "botecogames.io",
+      "name": "botecogames.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "brainsoft-apps.com",
+      "name": "brainsoft-apps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "buildingsformc.com",
+      "name": "buildingsformc.com"
+    },
+    {
+      "seller_id": "60213",
+      "seller_type": "PUBLISHER",
+      "domain": "bulldozer-balls.com",
+      "name": "bulldozer-balls.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "bydaddies.com",
+      "name": "bydaddies.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "c535054c.app-ads-txt.com",
+      "name": "c535054c.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "caffedegamers.com",
+      "name": "caffedegamers.com"
+    },
+    {
+      "seller_id": "60221",
+      "seller_type": "INTERMEDIARY",
+      "domain": "california-games.com",
+      "name": "california-games.com"
+    },
+    {
+      "seller_id": "60243",
+      "seller_type": "PUBLISHER",
+      "domain": "callapp.com",
+      "name": "callapp.com"
+    },
+    {
+      "seller_id": "60636",
+      "seller_type": "PUBLISHER",
+      "domain": "camfrog.com",
+      "name": "camfrog.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cas.ai",
+      "name": "cas.ai"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cas.pineconeapps.com",
+      "name": "cas.pineconeapps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cas.vasilkoff.info",
+      "name": "cas.vasilkoff.info"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cashbucks.pro",
+      "name": "cashbucks.pro"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cashday.pro",
+      "name": "cashday.pro"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cashway.pro",
+      "name": "cashway.pro"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "cesarev9.run",
+      "name": "cesarev9.run"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cheelyapps.com",
+      "name": "cheelyapps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cleveradssolutions.com",
+      "name": "cleveradssolutions.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "codev.kz",
+      "name": "codev.kz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "coinbird.ru",
+      "name": "coinbird.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "coinsdata.io",
+      "name": "coinsdata.io"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "colontoi.fun",
+      "name": "colontoi.fun"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cppgod17.github.io",
+      "name": "cppgod17.github.io"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "craftsman-ec9d2.web.app",
+      "name": "craftsman-ec9d2.web.app"
+    },
+    {
+      "seller_id": "60592",
+      "seller_type": "PUBLISHER",
+      "domain": "crunchyroll.com",
+      "name": "crunchyroll.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "cutlassandcoins.com",
+      "name": "cutlassandcoins.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "d6vxgtyvopscc.cloudfront.net",
+      "name": "d6vxgtyvopscc.cloudfront.net"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "dailydream8.xyz",
+      "name": "dailydream8.xyz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "daintygames.github.io",
+      "name": "daintygames.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "dcgames.space",
+      "name": "dcgames.space"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ddibox.com",
+      "name": "ddibox.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "develophero.ru",
+      "name": "develophero.ru"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "devgame.me",
+      "name": "devgame.me"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "devpepe.carrd.co",
+      "name": "devpepe.carrd.co"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "digineat.com",
+      "name": "digineat.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "douglascountysentinel.com",
+      "name": "douglascountysentinel.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "dqp5jnsd6icv3.cloudfront.net",
+      "name": "dqp5jnsd6icv3.cloudfront.net"
+    },
+    {
+      "seller_id": "60599",
+      "seller_type": "PUBLISHER",
+      "domain": "dudeperfect.com",
+      "name": "dudeperfect.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "earntv.io",
+      "name": "earntv.io"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "ebabaentertain.com",
+      "name": "ebabaentertain.com"
+    },
+    {
+      "seller_id": "60350",
+      "seller_type": "PUBLISHER",
+      "domain": "edjing.com",
+      "name": "edjing.com"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "eerskraft2.web.app",
+      "name": "eerskraft2.web.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "egoroffsoft.ru",
+      "name": "egoroffsoft.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "elermond.com",
+      "name": "elermond.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "elkharttruth.com",
+      "name": "elkharttruth.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "emvegames.com",
+      "name": "emvegames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "en.guitarsongs.club",
+      "name": "en.guitarsongs.club"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "enquirerjournal.com",
+      "name": "enquirerjournal.com"
+    },
+    {
+      "seller_id": "60350",
+      "seller_type": "PUBLISHER",
+      "domain": "equalizerpl.us",
+      "name": "equalizerpl.us"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ericetto.github.io",
+      "name": "ericetto.github.io"
+    },
+    {
+      "seller_id": "60592",
+      "seller_type": "PUBLISHER",
+      "domain": "expo.crunchyroll.com",
+      "name": "expo.crunchyroll.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "faifly.com",
+      "name": "faifly.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "fashion-coloring-fb0aa.firebaseapp.com",
+      "name": "fashion-coloring-fb0aa.firebaseapp.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "fkgames.ru",
+      "name": "fkgames.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "fluffyfoxgames.com",
+      "name": "fluffyfoxgames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "foggystudios.com",
+      "name": "foggystudios.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "foxedzero.github.io",
+      "name": "foxedzero.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "fr0ledev.games",
+      "name": "fr0ledev.games"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "free-apps.club",
+      "name": "free-apps.club"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "freebie.tv",
+      "name": "freebie.tv"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "freecast.com",
+      "name": "freecast.com"
+    },
+    {
       "seller_id": "60204",
       "seller_type": "PUBLISHER",
       "domain": "fugo.com.tr",
       "name": "fugo.com.tr"
     },
     {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "funtherapy.github.io",
+      "name": "funtherapy.github.io"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "funxd.co",
+      "name": "funxd.co"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "g3cfb4d85.app-ads-txt.com",
+      "name": "g3cfb4d85.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "galactic1games.com",
+      "name": "galactic1games.com"
+    },
+    {
+      "seller_id": "60379",
+      "seller_type": "PUBLISHER",
+      "domain": "galxy.tv",
+      "name": "galxy.tv"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "game-garden.com",
+      "name": "game-garden.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "gamecorpstudio.com",
+      "name": "gamecorpstudio.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "gamedevcomp.ru",
+      "name": "gamedevcomp.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "gamengg.online",
+      "name": "gamengg.online"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "gameplanzero.com",
+      "name": "gameplanzero.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "gamersice.com",
+      "name": "gamersice.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "games.elermond.com",
+      "name": "games.elermond.com"
+    },
+    {
+      "seller_id": "60642",
+      "seller_type": "PUBLISHER",
+      "domain": "games2win.com",
+      "name": "games2win.com"
+    },
+    {
+      "seller_id": "60402",
+      "seller_type": "PUBLISHER",
+      "domain": "gapustudio.com",
+      "name": "gapustudio.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "geniuskiller2.web.app",
+      "name": "geniuskiller2.web.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "getlantern.org",
+      "name": "getlantern.org"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "goodindieapps.com",
+      "name": "goodindieapps.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "griffindailynews.com",
+      "name": "griffindailynews.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "gsgames.ru",
+      "name": "gsgames.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "guidefactory.net",
+      "name": "guidefactory.net"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "guitarsongs.club",
+      "name": "guitarsongs.club"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "hallsbooked.asia",
+      "name": "hallsbooked.asia"
+    },
+    {
+      "seller_id": "60604",
+      "seller_type": "PUBLISHER",
+      "domain": "hashcube.com",
+      "name": "hashcube.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "hendersondispatch.com",
+      "name": "hendersondispatch.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "hf43d164b.app-ads-txt.com",
+      "name": "hf43d164b.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "himselfgreeley.cloud",
+      "name": "himselfgreeley.cloud"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "honeyapp.ru",
+      "name": "honeyapp.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "horoscopelovemoney.com",
+      "name": "horoscopelovemoney.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "horrorgames.ru",
+      "name": "horrorgames.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "hugly.app",
+      "name": "hugly.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "humanplayground.000webhostapp.com",
+      "name": "humanplayground.000webhostapp.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "hunapp.space",
+      "name": "hunapp.space"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "idaprikol.ru",
+      "name": "idaprikol.ru"
+    },
+    {
+      "seller_id": "60635",
+      "seller_type": "PUBLISHER",
+      "domain": "ideasolutions.it",
+      "name": "ideasolutions.it"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "ifunny.co",
+      "name": "ifunny.co"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "ifunnyx.co",
+      "name": "ifunnyx.co"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "ifunnyx2.com",
+      "name": "ifunnyx2.com"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "in.funxd.co",
+      "name": "in.funxd.co"
+    },
+    {
+      "seller_id": "60595",
+      "seller_type": "PUBLISHER",
+      "domain": "indiancookingstar.theappguruz.com",
+      "name": "indiancookingstar.theappguruz.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "infinitode.prineside.com",
+      "name": "infinitode.prineside.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "infomir.eu",
+      "name": "infomir.eu"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ipinvestmentfze.com",
+      "name": "ipinvestmentfze.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "iptvsolutionsgroup.com",
+      "name": "iptvsolutionsgroup.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "isgtv.com",
+      "name": "isgtv.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "itxappsmarketing.carrd.co",
+      "name": "itxappsmarketing.carrd.co"
+    },
+    {
+      "seller_id": "60338",
+      "seller_type": "PUBLISHER",
+      "domain": "iversoftgames.com",
+      "name": "iversoftgames.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "jerboagames.ae",
+      "name": "jerboagames.ae"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "joyixir.com",
+      "name": "joyixir.com"
+    },
+    {
+      "seller_id": "60358",
+      "seller_type": "PUBLISHER",
+      "domain": "jumpywheels.com",
+      "name": "jumpywheels.com"
+    },
+    {
+      "seller_id": "60359",
+      "seller_type": "PUBLISHER",
+      "domain": "jumpywheels.com",
+      "name": "jumpywheels.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "k.musical.uz",
+      "name": "k.musical.uz"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "kbletv.com",
+      "name": "kbletv.com"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "kekememes.de",
+      "name": "kekememes.de"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "khadiev.games",
+      "name": "khadiev.games"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kibaga.org",
+      "name": "kibaga.org"
+    },
+    {
+      "seller_id": "60635",
+      "seller_type": "PUBLISHER",
+      "domain": "kibogames.com",
+      "name": "kibogames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kidapp.ru",
+      "name": "kidapp.ru"
+    },
+    {
+      "seller_id": "60599",
+      "seller_type": "PUBLISHER",
+      "domain": "kidoodle.tv",
+      "name": "kidoodle.tv"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kidsgames.top",
+      "name": "kidsgames.top"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kitapindirspanish.epizy.com",
+      "name": "kitapindirspanish.epizy.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kmasoft.org",
+      "name": "kmasoft.org"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kmhzt.com",
+      "name": "kmhzt.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "knitbarely9.cc",
+      "name": "knitbarely9.cc"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "kongardionserver.ru",
+      "name": "kongardionserver.ru"
+    },
+    {
+      "seller_id": "60635",
+      "seller_type": "PUBLISHER",
+      "domain": "kyms-app.com",
+      "name": "kyms-app.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "lantern.io",
+      "name": "lantern.io"
+    },
+    {
+      "seller_id": "60603",
+      "seller_type": "PUBLISHER",
+      "domain": "leafslice.com",
+      "name": "leafslice.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "lenapp.space",
+      "name": "lenapp.space"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "liardhint.space",
+      "name": "liardhint.space"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "likenastya.net",
+      "name": "likenastya.net"
+    },
+    {
+      "seller_id": "60374",
+      "seller_type": "PUBLISHER",
+      "domain": "livefootball.ie",
+      "name": "livefootball.ie"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "lkn-legion.github.io",
+      "name": "lkn-legion.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "lmr-loyalty-free-mus.flycricket.io",
+      "name": "lmr-loyalty-free-mus.flycricket.io"
+    },
+    {
+      "seller_id": "60586",
+      "seller_type": "PUBLISHER",
+      "domain": "localbtv.com",
+      "name": "localbtv.com"
+    },
+    {
+      "seller_id": "60388",
+      "seller_type": "INTERMEDIARY",
+      "domain": "londonbusapp.com",
+      "name": "londonbusapp.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "loxick.site",
+      "name": "loxick.site"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "luiz.app",
+      "name": "luiz.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "lushmods.github.io",
+      "name": "lushmods.github.io"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "mankrik.com",
+      "name": "mankrik.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "mattkon97591.github.io",
+      "name": "mattkon97591.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "maystudiox.github.io",
+      "name": "maystudiox.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "mcappsmarketing.carrd.co",
+      "name": "mcappsmarketing.carrd.co"
+    },
+    {
+      "seller_id": "60358",
+      "seller_type": "PUBLISHER",
+      "domain": "mega-click.io",
+      "name": "mega-click.io"
+    },
+    {
+      "seller_id": "60359",
+      "seller_type": "PUBLISHER",
+      "domain": "mega-click.io",
+      "name": "mega-click.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "mega9studio.online",
+      "name": "mega9studio.online"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "memaster.faifly.com",
+      "name": "memaster.faifly.com"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "merge-toilet.web.app",
+      "name": "merge-toilet.web.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "metrocoin.one",
+      "name": "metrocoin.one"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "mhteam.top",
+      "name": "mhteam.top"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "minecraft-3d15d.web.app",
+      "name": "minecraft-3d15d.web.app"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "mix-monster-ewn.web.app",
+      "name": "mix-monster-ewn.web.app"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "mmig-648de.web.app",
+      "name": "mmig-648de.web.app"
+    },
+    {
       "seller_id": "60221",
       "seller_type": "PUBLISHER",
       "domain": "mobilityware.com",
-      "name": "MobilityWare"
+      "name": "mobilityware.com"
     },
     {
-      "seller_id": " 60243",
+      "seller_id": "60221",
+      "seller_type": "INTERMEDIARY",
+      "domain": "mobilityware.com",
+      "name": "mobilityware.com"
+    },
+    {
+      "seller_id": "60213",
       "seller_type": "PUBLISHER",
-      "domain": "callapp.com",
-      "name": "callapp"
+      "domain": "mobpals.com",
+      "name": "mobpals.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "momwillbeproud.com",
+      "name": "momwillbeproud.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "monytize.com",
+      "name": "monytize.com"
+    },
+    {
+      "seller_id": "60588",
+      "seller_type": "PUBLISHER",
+      "domain": "mouse-simulator.com",
+      "name": "mouse-simulator.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "multicraft.world",
+      "name": "multicraft.world"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "mushroomwars2.com",
+      "name": "mushroomwars2.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "musical.uz",
+      "name": "musical.uz"
+    },
+    {
+      "seller_id": "60350",
+      "seller_type": "PUBLISHER",
+      "domain": "musicworldmedia.com",
+      "name": "musicworldmedia.com"
+    },
+    {
+      "seller_id": "60350",
+      "seller_type": "PUBLISHER",
+      "domain": "mwm-apps.com",
+      "name": "mwm-apps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "myapplications.uz",
+      "name": "myapplications.uz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "mymobilewallpapers.com",
+      "name": "mymobilewallpapers.com"
+    },
+    {
+      "seller_id": "60622",
+      "seller_type": "PUBLISHER",
+      "domain": "namigame.com",
+      "name": "namigame.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "naxeex.com",
+      "name": "naxeex.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ndv-apps.com",
+      "name": "ndv-apps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "needbux.com",
+      "name": "needbux.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "nestsquick1.fun",
+      "name": "nestsquick1.fun"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "newsargus.com",
+      "name": "newsargus.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "newstopicnews.com",
+      "name": "newstopicnews.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "nnaoapr26.fyi",
+      "name": "nnaoapr26.fyi"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "nolodingames.com",
+      "name": "nolodingames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "oakware.com",
+      "name": "oakware.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "oktav77.github.io",
+      "name": "oktav77.github.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "onefutebol.com",
+      "name": "onefutebol.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "onewarrior.ru",
+      "name": "onewarrior.ru"
+    },
+    {
+      "seller_id": "60622",
+      "seller_type": "PUBLISHER",
+      "domain": "ormastudio.netlify.app",
+      "name": "ormastudio.netlify.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "pashok010.beget.tech",
+      "name": "pashok010.beget.tech"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "paulmcdeveloper.space",
+      "name": "paulmcdeveloper.space"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "pccreator25052020.web.app",
+      "name": "pccreator25052020.web.app"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "pingvigames.com",
+      "name": "pingvigames.com"
+    },
+    {
+      "seller_id": "60589",
+      "seller_type": "PUBLISHER",
+      "domain": "pixel-combat.com",
+      "name": "pixel-combat.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "play.quartsoft.com",
+      "name": "play.quartsoft.com"
+    },
+    {
+      "seller_id": "60638",
+      "seller_type": "PUBLISHER",
+      "domain": "player-games-14c9c.web.app",
+      "name": "player-games-14c9c.web.app"
+    },
+    {
+      "seller_id": "60204",
+      "seller_type": "PUBLISHER",
+      "domain": "playin.com.tr",
+      "name": "playin.com.tr"
     },
     {
       "seller_id": "60209",
@@ -35,184 +1433,64 @@
       "name": "plex.tv"
     },
     {
-      "seller_id": "60213",
+      "seller_id": "60653",
       "seller_type": "PUBLISHER",
-      "domain": "bulldozer-balls.com",
-      "name": "bulldozer-balls.com"
+      "domain": "pocketfm.com",
+      "name": "pocketfm.com"
     },
     {
-      "seller_id": "60217",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "rave.io",
-      "name": "rave.io"
-    },
-    {
-      "seller_id": "60219",
-      "seller_type": "PUBLISHER",
-      "domain": "botecogames.io",
-      "name": "botecogames.io"
-    },
-    {
-      "seller_id": "60221",
-      "seller_type": "PUBLISHER",
-      "domain": "california-games.com",
-      "name": "california-games.com"
-    },
-    {
-      "seller_id": "60232",
-      "seller_type": "PUBLISHER",
-      "domain": "azuretech.io",
-      "name": "azuretech.io"
-    },
-    {
-      "seller_id": "60243",
-      "seller_type": "PUBLISHER",
-      "domain": "top-apps.com",
-      "name": "top-apps.com"
-    },
-    {
-      "seller_id": "60300",
-      "seller_type": "PUBLISHER",
-      "domain": "tricount.com",
-      "name": "tricount.com"
-    },
-    {
-      "seller_id": "60326",
-      "seller_type": "PUBLISHER",
-      "domain": "futbin.com",
-      "name": "futbin.com"
-    },
-    {
-      "seller_id": "60329",
-      "seller_type": "PUBLISHER",
-      "domain": "wafour.com",
-      "name": "wafour.com"
-    },
-    {
-      "seller_id": "60337",
-      "seller_type": "PUBLISHER",
-      "domain": "apps.com.tr",
-      "name": "apps.com.tr"
-    },
-    {
-      "seller_id": "60338",
-      "seller_type": "PUBLISHER",
-      "domain": "iversoftgames.com",
-      "name": "iversoftgames.com"
-    },
-    {
-      "seller_id": "60350",
-      "seller_type": "PUBLISHER",
-      "domain": "approver-studio.com",
-      "name": "approver-studio.com"
-    },
-    {
-      "seller_id": "60351",
-      "seller_type": "PUBLISHER",
-      "domain": "wurl.com",
-      "name": "wurl.com"
-    },
-    {
-      "seller_id": "60352",
-      "seller_type": "PUBLISHER",
-      "domain": "adobe20.online",
-      "name": "adobe20.online"
-    },
-    {
-      "seller_id": "60358",
-      "seller_type": "PUBLISHER",
-      "domain": "mega-click.io",
-      "name": "mega-click.io"
-    },
-    {
-      "seller_id": "60359",
-      "seller_type": "PUBLISHER",
-      "domain": "mega-click.io",
-      "name": "mega-click.io"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "advocatepress.com",
-      "name": "advocatepress.com"
-    },
-    {
-      "seller_id": "60352",
-      "seller_type": "PUBLISHER",
-      "domain": "forage79lucca.asia",
-      "name": "forage79lucca.asia"
-    },
-    {
-      "seller_id": "60358",
-      "seller_type": "PUBLISHER",
-      "domain": "jumpywheels.com",
-      "name": "jumpywheels.com"
-    },
-    {
-      "seller_id": "60359",
-      "seller_type": "PUBLISHER",
-      "domain": "jumpywheels.com",
-      "name": "jumpywheels.com"
-    },
-    {
-      "seller_id": "60364",
-      "seller_type": "PUBLISHER",
-      "domain": "pursuitchannel.com",
-      "name": "pursuitchannel.com"
+      "domain": "poulgray63.github.io",
+      "name": "poulgray63.github.io"
     },
     {
       "seller_id": "60366",
       "seller_type": "PUBLISHER",
-      "domain": "ruckusfactory.com",
-      "name": "ruckusfactory.com"
+      "domain": "powernationtv.com",
+      "name": "powernationtv.com"
     },
     {
-      "seller_id": "60370",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "buccaneersfan.com",
-      "name": "buccaneersfan.com"
+      "domain": "preeminent-medovik-b6335b.netlify.app",
+      "name": "preeminent-medovik-b6335b.netlify.app"
     },
     {
-      "seller_id": "60374",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "livefootball.ie",
-      "name": "livefootball.ie"
+      "domain": "prettystudiomods.github.io",
+      "name": "prettystudiomods.github.io"
     },
     {
-      "seller_id": "60376",
+      "seller_id": "60352",
       "seller_type": "PUBLISHER",
-      "domain": "americasvoice.news",
-      "name": "americasvoice.news"
+      "domain": "privacy.azurgames.com",
+      "name": "privacy.azurgames.com"
     },
     {
-      "seller_id": "60377",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "afrolandtv.com",
-      "name": "afrolandtv.com"
+      "domain": "progress.games",
+      "name": "progress.games"
     },
     {
-      "seller_id": "60379",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "distro.tv",
-      "name": "distro.tv"
+      "domain": "proteygames.github.io",
+      "name": "proteygames.github.io"
     },
     {
-      "seller_id": "60381",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "frontofficesports.com",
-      "name": "frontofficesports.com"
+      "domain": "psvgamestudio.com",
+      "name": "psvgamestudio.com"
     },
     {
-      "seller_id": "60383",
+      "seller_id": "60219",
       "seller_type": "PUBLISHER",
-      "domain": "raiderramble.com",
-      "name": "raiderramble.com"
-    },
-    {
-      "seller_id": "60384",
-      "seller_type": "PUBLISHER",
-      "domain": "thegolfnewsnet.com",
-      "name": "thegolfnewsnet.com"
+      "domain": "publishing-dashboard.tap-nation.io",
+      "name": "publishing-dashboard.tap-nation.io"
     },
     {
       "seller_id": "60386",
@@ -221,64 +1499,82 @@
       "name": "puhutv.com"
     },
     {
-      "seller_id": "60387",
+      "seller_id": "60213",
       "seller_type": "PUBLISHER",
-      "domain": "blackngoldhockey.com",
-      "name": "blackngoldhockey.com"
+      "domain": "purecolourwallpaper.com",
+      "name": "purecolourwallpaper.com"
     },
     {
-      "seller_id": "60388",
-      "seller_type": "INTERMEDIARY",
-      "domain": "bustimes.londonbusapp.com",
-      "name": "bustimes.londonbusapp.com"
+      "seller_id": "60364",
+      "seller_type": "PUBLISHER",
+      "domain": "pursuitchannel.com",
+      "name": "pursuitchannel.com"
     },
     {
-      "seller_id": "60397",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "pokerallday.com",
-      "name": "pokerallday.com"
+      "domain": "q.musical.uz",
+      "name": "q.musical.uz"
     },
     {
-      "seller_id": "60399",
+      "seller_id": "60232",
       "seller_type": "PUBLISHER",
-      "domain": "littledotstudios.com",
-      "name": "littledotstudios.com"
+      "domain": "qrcodesfree.com",
+      "name": "qrcodesfree.com"
     },
     {
-      "seller_id": "60401",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "aubtu.biz",
-      "name": "aubtu.biz"
+      "domain": "ra9d1e300.app-ads-txt.com",
+      "name": "ra9d1e300.app-ads-txt.com"
     },
     {
-      "seller_id": "60402",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "gapustudio.com",
-      "name": "gapustudio.com"
+      "domain": "radio.musical.uz",
+      "name": "radio.musical.uz"
     },
     {
-      "seller_id": "60405",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "craftsman-ec9d2.web.app",
-      "name": "craftsman-ec9d2.web.app"
+      "domain": "ragames.net",
+      "name": "ragames.net"
     },
     {
-      "seller_id": "60407",
+      "seller_id": "60638",
       "seller_type": "PUBLISHER",
-      "domain": "justbartanews.com",
-      "name": "justbartanews.com"
+      "domain": "ragdoll-playground.web.app",
+      "name": "ragdoll-playground.web.app"
     },
     {
-      "seller_id": "60410",
+      "seller_id": "60352",
       "seller_type": "PUBLISHER",
-      "domain": "moviesplustv.com",
-      "name": "moviesplustv.com"
+      "domain": "railroadsempire.com",
+      "name": "railroadsempire.com"
     },
     {
-      "seller_id": "60412",
+      "seller_id": "60217",
       "seller_type": "PUBLISHER",
-      "domain": "locsonstem.com",
-      "name": "locsonstem.com"
+      "domain": "rave.io",
+      "name": "rave.io"
+    },
+    {
+      "seller_id": "60622",
+      "seller_type": "PUBLISHER",
+      "domain": "remygames.netlify.app",
+      "name": "remygames.netlify.app"
+    },
+    {
+      "seller_id": "60358",
+      "seller_type": "PUBLISHER",
+      "domain": "rentbusinesstycoon.com",
+      "name": "rentbusinesstycoon.com"
+    },
+    {
+      "seller_id": "60359",
+      "seller_type": "PUBLISHER",
+      "domain": "rentbusinesstycoon.com",
+      "name": "rentbusinesstycoon.com"
     },
     {
       "seller_id": "60422",
@@ -287,35 +1583,142 @@
       "name": "reveel.net"
     },
     {
-      "seller_id": "60423",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "sunmedia.stream",
-      "name": "sunmedia.stream"
+      "domain": "robogol.net",
+      "name": "robogol.net"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "rochsent.com",
+      "name": "rochsent.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "royalroad.com",
+      "name": "royalroad.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "rrdailyherald.com",
+      "name": "rrdailyherald.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ru.guitarsongs.club",
+      "name": "ru.guitarsongs.club"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "ruckusfactory.com",
+      "name": "ruckusfactory.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "s4a749e11.app-ads-txt.com",
+      "name": "s4a749e11.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "sanfordherald.com",
+      "name": "sanfordherald.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "sarosgames.com",
+      "name": "sarosgames.com"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "savedog-c7e15.web.app",
+      "name": "savedog-c7e15.web.app"
     },
     {
       "seller_id": "60396",
       "seller_type": "PUBLISHER",
-      "is_confidential": 0,
       "domain": "scopely.com",
       "name": "scopely.com"
     },
     {
-      "seller_id": "60575",
+      "seller_id": "60374",
       "seller_type": "PUBLISHER",
-      "domain": "surlyhorns.com",
-      "name": "surlyhorns.com"
+      "domain": "scorestack.ie",
+      "name": "scorestack.ie"
     },
     {
-      "seller_id": "60571",
-      "seller_type": "INTERMEDIARY",
-      "domain": "99memes.co",
-      "name": "99memes.co"
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "seachange.com",
+      "name": "seachange.com"
     },
     {
-      "seller_id": "60586",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "localbtv.com",
-      "name": "localbtv.com"
+      "domain": "setapp.top",
+      "name": "setapp.top"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "sheepyard.pl",
+      "name": "sheepyard.pl"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "sifodyasgames.com",
+      "name": "sifodyasgames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "simplay.games",
+      "name": "simplay.games"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "skindarab.co",
+      "name": "skindarab.co"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "slappintv.com",
+      "name": "slappintv.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "smart-cleaner.faifly.com",
+      "name": "smart-cleaner.faifly.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "smiletroy7.fun",
+      "name": "smiletroy7.fun"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "snazzymods.github.io",
+      "name": "snazzymods.github.io"
+    },
+    {
+      "seller_id": "60213",
+      "seller_type": "PUBLISHER",
+      "domain": "splintrun.com",
+      "name": "splintrun.com"
     },
     {
       "seller_id": "60587",
@@ -323,29 +1726,191 @@
       "domain": "splintrun.com",
       "name": "splintrun.com"
     },
- {
-      "seller_id": "60588",
+    {
+      "seller_id": "60386",
       "seller_type": "PUBLISHER",
-      "domain": "mouse-simulator.com",
-      "name": "mouse-simulator.com"
+      "domain": "startv.com.tr",
+      "name": "startv.com.tr"
     },
     {
-      "seller_id": "60589",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "pixel-combat.com",
-      "name": "pixel-combat.com"
+      "domain": "static.vlads.io",
+      "name": "static.vlads.io"
     },
     {
-      "seller_id": "60591",
+      "seller_id": "60662",
       "seller_type": "PUBLISHER",
-      "domain": "phlsportsnation.com",
-      "name": "phlsportsnation.com"
+      "domain": "streamflix.web.app",
+      "name": "streamflix.web.app"
     },
     {
-      "seller_id": "60592",
+      "seller_id": "60350",
       "seller_type": "PUBLISHER",
-      "domain": "crunchyroll.com",
-      "name": "crunchyroll.com"
+      "domain": "streamplayer.io",
+      "name": "streamplayer.io"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "suez84rosen.xyz",
+      "name": "suez84rosen.xyz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "supermomsclub.app",
+      "name": "supermomsclub.app"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "tap-nation.io",
+      "name": "tap-nation.io"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "tapnation.io",
+      "name": "tapnation.io"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tarot.yobzh.com",
+      "name": "tarot.yobzh.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "te9aa3232.app-ads-txt.com",
+      "name": "te9aa3232.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tech-jungle-studio.tilda.ws",
+      "name": "tech-jungle-studio.tilda.ws"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "theacc.com",
+      "name": "theacc.com"
+    },
+    {
+      "seller_id": "60595",
+      "seller_type": "PUBLISHER",
+      "domain": "theappguruz.com",
+      "name": "theappguruz.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thecabin.net",
+      "name": "thecabin.net"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thedailycitizen.com",
+      "name": "thedailycitizen.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thedigitalcourier.com",
+      "name": "thedigitalcourier.com"
+    },
+    {
+      "seller_id": "60595",
+      "seller_type": "PUBLISHER",
+      "domain": "thegamestown.com",
+      "name": "thegamestown.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thehp.com",
+      "name": "thehp.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "themountainpress.com",
+      "name": "themountainpress.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "tikilive.com",
+      "name": "tikilive.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tikloading.com",
+      "name": "tikloading.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "times-georgian.com",
+      "name": "times-georgian.com"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "tivi-casting.web.app",
+      "name": "tivi-casting.web.app"
+    },
+    {
+      "seller_id": "60243",
+      "seller_type": "PUBLISHER",
+      "domain": "top-apps.com",
+      "name": "top-apps.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "torrentpro.qinfro.com",
+      "name": "torrentpro.qinfro.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tortuga.games",
+      "name": "tortuga.games"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tortugasocial.com",
+      "name": "tortugasocial.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "trackdz.com",
+      "name": "trackdz.com"
+    },
+    {
+      "seller_id": "60300",
+      "seller_type": "PUBLISHER",
+      "domain": "tricount.com",
+      "name": "tricount.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "tripjoel4.today",
+      "name": "tripjoel4.today"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "trkit.co",
+      "name": "trkit.co"
     },
     {
       "seller_id": "60593",
@@ -354,40 +1919,226 @@
       "name": "truecaller.com"
     },
     {
+      "seller_id": "60641",
+      "seller_type": "PUBLISHER",
+      "domain": "tutotoons.com",
+      "name": "tutotoons.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tv1.musical.uz",
+      "name": "tv1.musical.uz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "tv2.musical.uz",
+      "name": "tv2.musical.uz"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "uab23ecff.app-ads-txt.com",
+      "name": "uab23ecff.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ucretsizkitapindir.epizy.com",
+      "name": "ucretsizkitapindir.epizy.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "v11585e6c.app-ads-txt.com",
+      "name": "v11585e6c.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "venturehivegames.com",
+      "name": "venturehivegames.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "vikaspawar.online",
+      "name": "vikaspawar.online"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "viral-trend-games.web.app",
+      "name": "viral-trend-games.web.app"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "vivalivetv.com",
+      "name": "vivalivetv.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "voltatlas.app",
+      "name": "voltatlas.app"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "vovademeshko.ru",
+      "name": "vovademeshko.ru"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "voxelium.games",
+      "name": "voxelium.games"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "w3e10de1f.app-ads-txt.com",
+      "name": "w3e10de1f.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "wachanga.com",
+      "name": "wachanga.com"
+    },
+    {
+      "seller_id": "60329",
+      "seller_type": "PUBLISHER",
+      "domain": "wafour.com",
+      "name": "wafour.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "watch.freecast.com",
+      "name": "watch.freecast.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "westro.ru",
+      "name": "westro.ru"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "whlsm.com",
+      "name": "whlsm.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "wildspike.com",
+      "name": "wildspike.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "wincrypt2.com",
+      "name": "wincrypt2.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "wizaiapps.github.io",
+      "name": "wizaiapps.github.io"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "wpsdlocal6.com",
+      "name": "wpsdlocal6.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "x9f4ff651.app-ads-txt.com",
+      "name": "x9f4ff651.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "xflix-8a21d.web.app",
+      "name": "xflix-8a21d.web.app"
+    },
+    {
+      "seller_id": "60660",
+      "seller_type": "PUBLISHER",
+      "domain": "yologamestudio.com",
+      "name": "yologamestudio.com"
+    },
+    {
+      "seller_id": "60641",
+      "seller_type": "PUBLISHER",
+      "domain": "zaidimustudija.lt",
+      "name": "zaidimustudija.lt"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "zelenapp.store",
+      "name": "zelenapp.store"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "zepheere.com",
+      "name": "zepheere.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "zoneify.tv",
+      "name": "zoneify.tv"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "zoombitstudio.com",
+      "name": "zoombitstudio.com"
+    },
+    {
+      "seller_id": "60645",
+      "seller_type": "PUBLISHER",
+      "domain": "knews8.com",
+      "name": "knews8.com"
+    },
+    {
       "seller_id": "60594",
       "seller_type": "PUBLISHER",
       "domain": "sazi.info",
       "name": "sazi.info"
     },
     {
-      "seller_id": "60595",
+      "seller_id": "60401",
       "seller_type": "PUBLISHER",
-      "domain": "asiancookingstar.theappguruz.com",
-      "name": "asiancookingstar.theappguruz.com"
+      "domain": "1millionideas.com",
+      "name": "1millionideas.com"
     },
     {
-      "seller_id": "60596",
+      "seller_id": "60352",
       "seller_type": "PUBLISHER",
-      "domain": "tmspn.com",
-      "name": "tmspn.com"
+      "domain": "adobe20.online",
+      "name": "adobe20.online"
     },
     {
-      "seller_id": "60597",
+      "seller_id": "60377",
       "seller_type": "PUBLISHER",
-      "domain": "fastphillysports.com",
-      "name": "fastphillysports.com"
+      "domain": "ads.zoneify.tv",
+      "name": "ads.zoneify.tv"
     },
     {
-      "seller_id": "60599",
+      "seller_id": "60362",
       "seller_type": "PUBLISHER",
-      "domain": "aparentmedia.com",
-      "name": "aparentmedia.com"
-    },
-    {
-      "seller_id": "60600",
-      "seller_type": "PUBLISHER",
-      "domain": "tyko.online",
-      "name": "tyko.online"
+      "domain": "advocatepress.com",
+      "name": "advocatepress.com"
     },
     {
       "seller_id": "60602",
@@ -396,16 +2147,532 @@
       "name": "alfee.info"
     },
     {
-      "seller_id": "60603",
+      "seller_id": "60572",
       "seller_type": "PUBLISHER",
-      "domain": "leafslice.com",
-      "name": "leafslice.com"
+      "domain": "allplaynews.com",
+      "name": "allplaynews.com"
     },
     {
-      "seller_id": "60604",
+      "seller_id": "60645",
       "seller_type": "PUBLISHER",
-      "domain": "hashcube.com",
-      "name": "hashcube.com"
+      "domain": "amazingtoday.net",
+      "name": "amazingtoday.net"
+    },
+    {
+      "seller_id": "60633",
+      "seller_type": "PUBLISHER",
+      "domain": "apkclasico.com",
+      "name": "apkclasico.com"
+    },
+    {
+      "seller_id": "60634",
+      "seller_type": "PUBLISHER",
+      "domain": "apkrabi.com",
+      "name": "apkrabi.com"
+    },
+    {
+      "seller_id": "60594",
+      "seller_type": "PUBLISHER",
+      "domain": "apktodo.com",
+      "name": "apktodo.com"
+    },
+    {
+      "seller_id": "60594",
+      "seller_type": "PUBLISHER",
+      "domain": "apktodo.io",
+      "name": "apktodo.io"
+    },
+    {
+      "seller_id": "60401",
+      "seller_type": "PUBLISHER",
+      "domain": "aubtu.biz",
+      "name": "aubtu.biz"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "ayozat.co.uk",
+      "name": "ayozat.co.uk"
+    },
+    {
+      "seller_id": "60644",
+      "seller_type": "PUBLISHER",
+      "domain": "bgdiet.com",
+      "name": "bgdiet.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "breakingac.com",
+      "name": "breakingac.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "buccaneersfan.com",
+      "name": "buccaneersfan.com"
+    },
+    {
+      "seller_id": "60388",
+      "seller_type": "INTERMEDIARY",
+      "domain": "bustimes.londonbusapp.com",
+      "name": "bustimes.londonbusapp.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "byron31a.work",
+      "name": "byron31a.work"
+    },
+    {
+      "seller_id": "60645",
+      "seller_type": "PUBLISHER",
+      "domain": "carmagazine.tv",
+      "name": "carmagazine.tv"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "carmitimes.com",
+      "name": "carmitimes.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "centsports.com",
+      "name": "centsports.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "chiefsblitz.com",
+      "name": "chiefsblitz.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "chronicle-tribune.com",
+      "name": "chronicle-tribune.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "cloudmc.us",
+      "name": "cloudmc.us"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "cloudmcapp.com",
+      "name": "cloudmcapp.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "couriernews.com",
+      "name": "couriernews.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "dailycorinthian.com",
+      "name": "dailycorinthian.com"
+    },
+    {
+      "seller_id": "60412",
+      "seller_type": "PUBLISHER",
+      "domain": "danhngon.pro",
+      "name": "danhngon.pro"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "duboiscountyherald.com",
+      "name": "duboiscountyherald.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "easysportz.com",
+      "name": "easysportz.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "etruth.com",
+      "name": "etruth.com"
+    },
+    {
+      "seller_id": "60381",
+      "seller_type": "PUBLISHER",
+      "domain": "factle.app",
+      "name": "factle.app"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "franklinfavorite.com",
+      "name": "franklinfavorite.com"
+    },
+    {
+      "seller_id": "60381",
+      "seller_type": "PUBLISHER",
+      "domain": "frontofficesports.com",
+      "name": "frontofficesports.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "ftimes.com",
+      "name": "ftimes.com"
+    },
+    {
+      "seller_id": "60644",
+      "seller_type": "PUBLISHER",
+      "domain": "giftcuztom.com",
+      "name": "giftcuztom.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "glorystar.tv",
+      "name": "glorystar.tv"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "gopherhole.com",
+      "name": "gopherhole.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "grandhaventribune.com",
+      "name": "grandhaventribune.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "guardonline.com",
+      "name": "guardonline.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "h-ponline.com",
+      "name": "h-ponline.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "hammondstar.com",
+      "name": "hammondstar.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "harborcountry-news.com",
+      "name": "harborcountry-news.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "hawkeyenation.com",
+      "name": "hawkeyenation.com"
+    },
+    {
+      "seller_id": "60645",
+      "seller_type": "PUBLISHER",
+      "domain": "hemoroizi.com",
+      "name": "hemoroizi.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "heraldargus.com",
+      "name": "heraldargus.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "heraldledger.com",
+      "name": "heraldledger.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "heraldpalladium.com",
+      "name": "heraldpalladium.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "hometownregister.com",
+      "name": "hometownregister.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "hookedonhockeymagazine.com",
+      "name": "hookedonhockeymagazine.com"
+    },
+    {
+      "seller_id": "60586",
+      "seller_type": "PUBLISHER",
+      "domain": "idreamctv.com",
+      "name": "idreamctv.com"
+    },
+    {
+      "seller_id": "60636",
+      "seller_type": "PUBLISHER",
+      "domain": "ja.paltalk.com",
+      "name": "ja.paltalk.com"
+    },
+    {
+      "seller_id": "60412",
+      "seller_type": "PUBLISHER",
+      "domain": "jackiepost365.com",
+      "name": "jackiepost365.com"
+    },
+    {
+      "seller_id": "60644",
+      "seller_type": "PUBLISHER",
+      "domain": "jcalit.com",
+      "name": "jcalit.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "jetnation.com",
+      "name": "jetnation.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "jonesborosun.com",
+      "name": "jonesborosun.com"
+    },
+    {
+      "seller_id": "60407",
+      "seller_type": "PUBLISHER",
+      "domain": "justbartanews.com",
+      "name": "justbartanews.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "kentuckynewera.com",
+      "name": "kentuckynewera.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "lebanondemocrat.com",
+      "name": "lebanondemocrat.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "legerlydiahaoe.space",
+      "name": "legerlydiahaoe.space"
+    },
+    {
+      "seller_id": "60412",
+      "seller_type": "PUBLISHER",
+      "domain": "locsonstem.com",
+      "name": "locsonstem.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "lpheralddispatch.com",
+      "name": "lpheralddispatch.com"
+    },
+    {
+      "seller_id": "60636",
+      "seller_type": "PUBLISHER",
+      "domain": "m.paltalk.com",
+      "name": "m.paltalk.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "madisoncourier.com",
+      "name": "madisoncourier.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "matchsimulator.com",
+      "name": "matchsimulator.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "mayfield-messenger.com",
+      "name": "mayfield-messenger.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "mediapulse.ca",
+      "name": "mediapulse.ca"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "messenger-inquirer.com",
+      "name": "messenger-inquirer.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "metropolisplanet.com",
+      "name": "metropolisplanet.com"
+    },
+    {
+      "seller_id": "60388",
+      "seller_type": "INTERMEDIARY",
+      "domain": "mobicia.com",
+      "name": "mobicia.com"
+    },
+    {
+      "seller_id": "60645",
+      "seller_type": "PUBLISHER",
+      "domain": "modbibo.com",
+      "name": "modbibo.com"
+    },
+    {
+      "seller_id": "60407",
+      "seller_type": "PUBLISHER",
+      "domain": "mstfootball.com",
+      "name": "mstfootball.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "mtcarmelregister.com",
+      "name": "mtcarmelregister.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "newsexaminer.com",
+      "name": "newsexaminer.com"
+    },
+    {
+      "seller_id": "60407",
+      "seller_type": "PUBLISHER",
+      "domain": "newspaper24hr.com",
+      "name": "newspaper24hr.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "nflpoolpicks.net",
+      "name": "nflpoolpicks.net"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "nxconnect.me",
+      "name": "nxconnect.me"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "o2f93e7eb.app-ads-txt.com",
+      "name": "o2f93e7eb.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "olneydailymail.com",
+      "name": "olneydailymail.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "paducahsun.com",
+      "name": "paducahsun.com"
+    },
+    {
+      "seller_id": "60636",
+      "seller_type": "PUBLISHER",
+      "domain": "paltalk.com",
+      "name": "paltalk.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "paragoulddailypress.com",
+      "name": "paragoulddailypress.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "pdclarion.com",
+      "name": "pdclarion.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "perutribune.com",
+      "name": "perutribune.com"
+    },
+    {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "pitt1010.fun",
+      "name": "pitt1010.fun"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "plaindealerin.com",
+      "name": "plaindealerin.com"
+    },
+    {
+      "seller_id": "60397",
+      "seller_type": "PUBLISHER",
+      "domain": "pokerallday.com",
+      "name": "pokerallday.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "powernation.tv",
+      "name": "powernation.tv"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "pressmentor.com",
+      "name": "pressmentor.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "primetimesportstalk.com",
+      "name": "primetimesportstalk.com"
+    },
+    {
+      "seller_id": "60383",
+      "seller_type": "PUBLISHER",
+      "domain": "raiderramble.com",
+      "name": "raiderramble.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "rc2089e52.app-ads-txt.com",
+      "name": "rc2089e52.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60602",
+      "seller_type": "PUBLISHER",
+      "domain": "sadly.info",
+      "name": "sadly.info"
     },
     {
       "seller_id": "60605",
@@ -414,22 +2681,250 @@
       "name": "sadly.info"
     },
     {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "shelbynews.com",
+      "name": "shelbynews.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "sportsgossip.com",
+      "name": "sportsgossip.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "sportsplays.com",
+      "name": "sportsplays.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "sportxads.com",
+      "name": "sportxads.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "staccstv.com",
+      "name": "staccstv.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "steelcityblitz.com",
+      "name": "steelcityblitz.com"
+    },
+    {
+      "seller_id": "60377",
+      "seller_type": "PUBLISHER",
+      "domain": "streeme.tv",
+      "name": "streeme.tv"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "suncommercial.com",
+      "name": "suncommercial.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "surlyhorns.com",
+      "name": "surlyhorns.com"
+    },
+    {
+      "seller_id": "60575",
+      "seller_type": "PUBLISHER",
+      "domain": "surlyhorns.com",
+      "name": "surlyhorns.com"
+    },
+    {
+      "seller_id": "60602",
+      "seller_type": "PUBLISHER",
+      "domain": "sweetpbabies.com",
+      "name": "sweetpbabies.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "teutopolispress.com",
+      "name": "teutopolispress.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "the-messenger.com",
+      "name": "the-messenger.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "thebuffalofanatics.com",
+      "name": "thebuffalofanatics.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thecouriertimes.com",
+      "name": "thecouriertimes.com"
+    },
+    {
+      "seller_id": "60384",
+      "seller_type": "PUBLISHER",
+      "domain": "thegolfnewsnet.com",
+      "name": "thegolfnewsnet.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thenewsdispatch.com",
+      "name": "thenewsdispatch.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "thepeachbasket.net",
+      "name": "thepeachbasket.net"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "thesuntimes.com",
+      "name": "thesuntimes.com"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "tigerrag.com",
+      "name": "tigerrag.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "timesleader.net",
+      "name": "timesleader.net"
+    },
+    {
+      "seller_id": "60370",
+      "seller_type": "PUBLISHER",
+      "domain": "tmspn.com",
+      "name": "tmspn.com"
+    },
+    {
+      "seller_id": "60596",
+      "seller_type": "PUBLISHER",
+      "domain": "tmspn.com",
+      "name": "tmspn.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "tribunecourier.com",
+      "name": "tribunecourier.com"
+    },
+    {
+      "seller_id": "60638",
+      "seller_type": "PUBLISHER",
+      "domain": "tuymas.com",
+      "name": "tuymas.com"
+    },
+    {
+      "seller_id": "60407",
+      "seller_type": "PUBLISHER",
+      "domain": "tyko.online",
+      "name": "tyko.online"
+    },
+    {
+      "seller_id": "60600",
+      "seller_type": "PUBLISHER",
+      "domain": "tyko.online",
+      "name": "tyko.online"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ub38b2de7.app-ads-txt.com",
+      "name": "ub38b2de7.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60662",
+      "seller_type": "PUBLISHER",
+      "domain": "ufe8c55e4.app-ads-txt.com",
+      "name": "ufe8c55e4.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60645",
+      "seller_type": "PUBLISHER",
+      "domain": "viral28news.xyz",
+      "name": "viral28news.xyz"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "wabashplaindealer.com",
+      "name": "wabashplaindealer.com"
+    },
+    {
+      "seller_id": "60362",
+      "seller_type": "PUBLISHER",
+      "domain": "warricknews.com",
+      "name": "warricknews.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "watchstadium.com",
+      "name": "watchstadium.com"
+    },
+    {
+      "seller_id": "60592",
+      "seller_type": "PUBLISHER",
+      "domain": "www.crunchyroll.com",
+      "name": "www.crunchyroll.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "www.freecast.com",
+      "name": "www.freecast.com"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "www.powernation.tv",
+      "name": "www.powernation.tv"
+    },
+    {
+      "seller_id": "60366",
+      "seller_type": "PUBLISHER",
+      "domain": "www.ruckusfactory.com",
+      "name": "www.ruckusfactory.com"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "xb6c20020.app-ads-txt.com",
+      "name": "xb6c20020.app-ads-txt.com"
+    },
+    {
+      "seller_id": "60602",
+      "seller_type": "PUBLISHER",
+      "domain": "yega.online",
+      "name": "yega.online"
+    },
+    {
       "seller_id": "60607",
       "seller_type": "PUBLISHER",
       "domain": "yega.online",
       "name": "yega.online"
     },
     {
-      "seller_id": "60622",
+      "seller_id": "60407",
       "seller_type": "PUBLISHER",
-      "domain": "babgame.co",
-      "name": "babgame.co"
-    },
-    {
-      "seller_id": "60572",
-      "seller_type": "PUBLISHER",
-      "domain": "allplaynews.com",
-      "name": "allplaynews.com"
+      "domain": "zaly.online",
+      "name": "zaly.online"
     }
   ]
 }
