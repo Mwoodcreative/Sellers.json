@@ -5,6 +5,24 @@
   "identifiers": [],
   "sellers": [
     {
+      "seller_id": "60209",
+      "seller_type": "PUBLISHER",
+      "domain": "playsimple.in",
+      "name": "playsimple.in"
+    },    
+    {
+      "seller_id": "60221",
+      "seller_type": "PUBLISHER",
+      "domain": "mobilityware.com",
+      "name": "mobilityware.com"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "publishing-dashboard.tap-nation.io",
+      "name": "publishing-dashboard.tap-nation.io"
+    },
+    {
       "seller_id": "60645",
       "seller_type": "PUBLISHER",
       "domain": "knews8.com",
@@ -300,12 +318,6 @@
     },
     {
       "seller_id": "60221",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
-    },
-    {
-      "seller_id": "60221",
       "seller_type": "INTERMEDIARY",
       "domain": "mobilityware.com",
       "name": "mobilityware.com"
@@ -375,12 +387,6 @@
       "seller_type": "PUBLISHER",
       "domain": "pixel-combat.com",
       "name": "pixel-combat.com"
-    },
-    {
-      "seller_id": "60209",
-      "seller_type": "PUBLISHER",
-      "domain": "playsimple.in",
-      "name": "playsimple.in"
     },
     {
       "seller_id": "60653",
