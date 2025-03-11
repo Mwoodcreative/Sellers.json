@@ -17,6 +17,12 @@
 "name": "mobilityware.com"
 },
 {
+"seller_id": "60658",
+"seller_type": "PUBLISHER",
+"domain": "rakuten.tv",
+"name": "rakuten.tv"
+},
+{
 "seller_id": "60219",
 "seller_type": "PUBLISHER",
 "domain": "publishing-dashboard.tap-nation.io",
@@ -59,6 +65,24 @@
 "name": "ads.zoneify.tv"
 },
 {
+"seller_id": "60668",
+"seller_type": "PUBLISHER",
+"domain": "udogames.com",
+"name": "udogames.com"
+},  
+{
+"seller_id": "60649",
+"seller_type": "PUBLISHER",
+"domain": "hornet.com",
+"name": "hornet"
+}, 
+{
+"seller_id": "60707",
+"seller_type": "PUBLISHER",
+"domain": "infinitygames.io",
+"name": "infinitygames.io"
+},
+{
 "seller_id": "60362",
 "seller_type": "PUBLISHER",
 "domain": "advocatepress.com",
@@ -93,12 +117,6 @@
 "seller_type": "PUBLISHER",
 "domain": "apkrabi.com",
 "name": "apkrabi.com"
-},
-{
-"seller_id": "60662",
-"seller_type": "PUBLISHER",
-"domain": "audiosdroid.com",
-"name": "audiosdroid.com"
 },
 {
 "seller_id": "60644",
@@ -431,12 +449,6 @@
 "name": "wafour.com"
 },
 {
-  "seller_id": "60662",
-  "seller_type": "PUBLISHER",
-  "domain": "cf7462f5f.app-ads-txt.com",
-  "name": "cf7462f5f.app-ads-txt.com"
-},
-{
   "seller_id": "60644",
   "seller_type": "PUBLISHER",
   "domain": "giftcuztom.com",
@@ -489,6 +501,12 @@
   "seller_type": "PUBLISHER",
   "domain": "pocketfm.com",
   "name": "pocketfm.com"
+},
+{
+  "seller_id": "60662",
+  "seller_type": "PUBLISHER",
+  "domain": "cas.ai",
+  "name": "cas.ai"
 },
 {
 "seller_id": "60660",
