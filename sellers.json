@@ -17,6 +17,30 @@
 "name": "mobilityware.com"
 },
 {
+"seller_id": "60211",
+"seller_type": "PUBLISHER",
+"name": "Future Today Inc.",
+"domain": "futuretodayinc.com"
+},
+{
+"seller_id": "50219",
+"seller_type": "PUBLISHER",
+"domain": "tap-nation.io",
+"name": "tap-nation.io"
+},
+{
+"seller_id": "60212",
+"seller_type": "PUBLISHER",
+"domain": "Scripps Media Inc",
+"name": "scripps.com"
+},
+{
+"seller_id": "60214",
+"seller_type": "PUBLISHER",
+"domain": "Fubo",
+"name": "fubo.tv"
+},
+{
 "seller_id": "60658",
 "seller_type": "PUBLISHER",
 "domain": "rakuten.tv",
